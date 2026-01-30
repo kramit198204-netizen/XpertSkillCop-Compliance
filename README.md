@@ -1,1 +1,0 @@
-# XpertSkillCop-Compliance Management Portal
